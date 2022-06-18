@@ -856,9 +856,9 @@
             13: "\u5FC5\u6BBA\u89BA\u9192",
             14: "\u75AB\u82D7",
             15: "\u53CD\u9396\u5B9A",
-            16: "\u683C\u9B25\u66B4\u64CA",
+            16: "\uaca9\ud22c\u66B4\u64CA",
             20: "\u5BE6\u5F48\u66B4\u64CA",
-            29: "\u683C\u9B25\u53CD\u64CA",
+            29: "\uaca9\ud22c\u53CD\u64CA",
             35: "\u81EA\u52D5\u96B1\u8EAB",
             39: "NTD",
             40: "\u91CF\u5B50\u5316"
@@ -993,8 +993,8 @@
         }, d)))))))));
         let B = {
                 S: "\u683C\u9B25",
-                P: "\u5BE6\u5F48",
-                B: "\u5149\u675F"
+                P: "\uc2e4\ud0c4",
+                B: "\ube54"
             },
             y = o == null ? void 0 : o.replace(/(\\n)/g, `
 `);
@@ -1018,10 +1018,10 @@
             class: "tags is-justify-content-center"
         }, s("span", {
             class: "tag is-warning is-light is-medium",
-            title: "\u8DDD\u96E2"
+            title: "\uac70\ub9ac"
         }, i), s("span", {
             class: "tag is-link is-light is-medium",
-            title: "\u5C6C\u6027"
+            title: "\uc18d\uc131"
         }, B[r]), $ === "Y" && s("span", {
             class: "tag is-danger is-light is-medium",
             title: "Charge"
@@ -1030,7 +1030,7 @@
             title: "\u5B9A\u81EA\u5DF1"
         }, "\u5B9A\u81EA\u5DF1"), v === "Y" && s("span", {
             class: "tag is-primary is-light is-medium",
-            title: "\u5F48\u593E\u5F0F"
+            title: "\uce74\ud2b8\ub9ac\uc9c0"
         }, "\u5F48\u593E\u5F0F"), k === "Y" && s("span", {
             class: "tag is-primary is-light is-medium",
             title: "\u7121\u683C\u885D"
