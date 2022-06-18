@@ -1249,7 +1249,7 @@
             class: "level-item has-text-centered"
         }, s("div", null, s("p", {
             class: "heading subtitle is-6"
-        }, "\uc274\ub4dc\uac10\uc18c\ub7c9"), s("p", {
+        }, "\uc274\ub4dc\ub0b4\uad6c\ub3c4"), s("p", {
             class: "title is-5"
         }, x))), s("div", {
             class: "level-item has-text-centered"
