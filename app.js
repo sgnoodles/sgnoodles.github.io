@@ -865,15 +865,15 @@
         };
 
     function kt(t = []) {
-        let e = ["\uac77\uae30\uc18d\ub3c4", "\ubd80\uc2a4\ud130\uc18d\ub3c4", "AGI", ["\u56DE\u6C23", L.percent],
-                ["\u6C23\u69FD", L.percent2], "ATK", "DEF", "\uc11c\uce58\uac70\ub9ac", ["\u653B\u901F", L.percent],
+        let e = ["\uac77\uae30\uc18d\ub3c4", "\ubd80\uc2a4\ud130\uc18d\ub3c4", "AGI", ["\ubd80\uc2a4\ud130\uc99d\uac00", L.percent],
+                ["\ubd80\uc2a4\ud130\u0020\ud68c\ubcf5\uc18d\ub3c4", L.percent2], "ATK", "DEF", "\uc11c\uce58\uac70\ub9ac", ["\uacf5\uaca9\uc18d\ub3c4", L.percent],
                 ["S\u586B\u88DD", L.percent],
                 ["M\u586B\u88DD", L.percent],
                 ["L\u586B\u88DD", L.percent],
                 ["S\u6E1B\u50B7", L.percent],
                 ["M\u6E1B\u50B7", L.percent],
                 ["L\u6E1B\u50B7", L.percent],
-                ["\u5149\u675F\u6E1B\u50B7", L.percent],
+                ["\ube54\u0020\ub370\ubbf8\uc9c0\u0020\uac10\uc18c", L.percent],
                 ["\u5BE6\u5F48\u6E1B\u50B7", L.percent],
                 ["\u5168\u6E1B\u50B7", L.percent]
             ],
@@ -1255,7 +1255,7 @@
             class: "level-item has-text-centered"
         }, s("div", null, s("p", {
             class: "heading subtitle is-6"
-        }, "\u76FE\u6E1B\u50B7"), s("p", {
+        }, "\uc274\ub4dc\uac10\uc18c\ub7c9"), s("p", {
             class: "title is-5"
         }, b))), s("div", {
             class: "level-item has-text-centered"
