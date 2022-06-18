@@ -1465,7 +1465,7 @@
         }, s("input", {
             class: "input",
             type: "text",
-            placeholder: "\u6A5F\u9AD4\u540D\u7A31...",
+            placeholder: "\uae30\uccb4\uc774\ub984...",
             onInput: y => F(y.target.value),
             value: l == null ? void 0 : l.name
         }))))), s("div", {
